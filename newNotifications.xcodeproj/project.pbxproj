@@ -10,7 +10,6 @@
 		4946429E1F719863006F0D7B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4946429D1F719863006F0D7B /* AppDelegate.swift */; };
 		494642A01F719863006F0D7B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4946429F1F719863006F0D7B /* ViewController.swift */; };
 		494642A31F719863006F0D7B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 494642A11F719863006F0D7B /* Main.storyboard */; };
-		494642A51F719863006F0D7B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 494642A41F719863006F0D7B /* Assets.xcassets */; };
 		494642A81F719863006F0D7B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 494642A61F719863006F0D7B /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
@@ -19,9 +18,10 @@
 		4946429D1F719863006F0D7B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4946429F1F719863006F0D7B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		494642A21F719863006F0D7B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		494642A41F719863006F0D7B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		494642A71F719863006F0D7B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		494642A91F719863006F0D7B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4980CCDF1F71CE0C00115432 /* git_merge.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = git_merge.gif; path = ../../../../../Downloads/git_merge.gif; sourceTree = "<group>"; };
+		4980CCE01F71D13A00115432 /* rick_grimes.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = rick_grimes.gif; path = "../../../../../Downloads/iOS-Notifications/ios10_notifications/rick_grimes.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,8 @@
 				4946429D1F719863006F0D7B /* AppDelegate.swift */,
 				4946429F1F719863006F0D7B /* ViewController.swift */,
 				494642A11F719863006F0D7B /* Main.storyboard */,
-				494642A41F719863006F0D7B /* Assets.xcassets */,
+				4980CCDF1F71CE0C00115432 /* git_merge.gif */,
+				4980CCE01F71D13A00115432 /* rick_grimes.gif */,
 				494642A61F719863006F0D7B /* LaunchScreen.storyboard */,
 				494642A91F719863006F0D7B /* Info.plist */,
 			);
@@ -124,7 +125,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				494642A81F719863006F0D7B /* LaunchScreen.storyboard in Resources */,
-				494642A51F719863006F0D7B /* Assets.xcassets in Resources */,
 				494642A31F719863006F0D7B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
